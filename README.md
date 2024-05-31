@@ -1,6 +1,10 @@
 <!-- Day 1 - 30/05/2024 -->
 
-## Folder Structure
+# Theme Switcher Project
+
+## Day 1 - 30/05/2024
+
+### Folder Structure
 
 The project follows a structured folder layout to organize both the backend and frontend code:
 
@@ -27,7 +31,7 @@ theme-switcher-project/
     └── package.json
 ```
 
-## What I Did Today
+### What I Did Today
 
 - **Folder Structure:** Created a well-organized folder structure for the theme-switcher project, separating backend and frontend code into distinct directories.
 - **Backend Setup:** Initialized a new Node.js project in the backend directory, installed Express.js as a backend framework, and set up a basic HTTP server using Express.js.
@@ -38,6 +42,8 @@ theme-switcher-project/
 ---
 
 <!-- Day 2 - 31/05/2024 -->
+
+## Day 2 - 31/05/2024
 
 ```
 theme-switcher-project/
@@ -68,7 +74,7 @@ theme-switcher-project/
 
 ```
 
-## What I Did Today
+### What I Did Today
 
 - **create a api for themes:** Created an API endpoint for retrieving and updating themes in the backend.
 - **create a frontend for themes:** Created a React component for displaying the list of themes in the frontend.
